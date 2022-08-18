@@ -1,5 +1,3 @@
-# kannohw5-workday
-
 # Work Day Scheduler
 
 ## Description
